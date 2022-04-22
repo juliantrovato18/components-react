@@ -1,0 +1,16 @@
+.card-container{
+    min-height: 300px;
+    min-width: 600px;
+    border: solid 2px black;
+    display: flex;
+}
+.card-image{
+    width: 200px;
+}
+.card-container-props{
+    display: flex;
+    flex-direction: column;
+}
+.button{
+    background-color: aquamarine;
+}
